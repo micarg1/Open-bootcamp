@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ejercicio Imagenes y videos</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imágenes</h1>
+    <img src="https://i.blogs.es/4757b2/fall-guys/1366_2000.jpeg" alt="logo fall guys" width="200" height="200" />
+
+    <h1>Aprendiendo a utilizar los videos</h1>
+    <video controls autoplay muted loop width="300" height="300">
+        <source src="y2mate.com - Billy Joel  Vienna  Subtitulada Español  Inglés_480p.mp4" type="video/mp4">    
+
+    </video>
+
+    <h1>Aprendiendo a utilizar los audios</h1>
+    <audio controls autoplay loop src="y2mate.com - Fleetwood Mac  Dreams with lyrics.mp3">
+        
+    </audio>
+ 
+</body>
+</html>
