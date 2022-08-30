@@ -26,3 +26,11 @@
  
 </body>
 </html>
+
+#primer-elemento , #elemento-1{
+    color: red;
+}
+
+#primer-elemento {
+    font-size: 2rem;
+}
